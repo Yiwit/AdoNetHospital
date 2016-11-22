@@ -1,0 +1,38 @@
+C:\HastaneOtomasyon\AdoNetHospital\LoginForm\bin\Debug\LoginForm.exe.config
+C:\HastaneOtomasyon\AdoNetHospital\LoginForm\bin\Debug\LoginForm.exe
+C:\HastaneOtomasyon\AdoNetHospital\LoginForm\bin\Debug\LoginForm.pdb
+C:\HastaneOtomasyon\AdoNetHospital\LoginForm\bin\Debug\BusinessLayer.dll
+C:\HastaneOtomasyon\AdoNetHospital\LoginForm\bin\Debug\Data Access Layer.dll
+C:\HastaneOtomasyon\AdoNetHospital\LoginForm\bin\Debug\Entities.dll
+C:\HastaneOtomasyon\AdoNetHospital\LoginForm\bin\Debug\BusinessLayer.pdb
+C:\HastaneOtomasyon\AdoNetHospital\LoginForm\bin\Debug\Data Access Layer.pdb
+C:\HastaneOtomasyon\AdoNetHospital\LoginForm\bin\Debug\Entities.pdb
+C:\HastaneOtomasyon\AdoNetHospital\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+C:\HastaneOtomasyon\AdoNetHospital\LoginForm\obj\Debug\LoginForm.AppointmentSave.resources
+C:\HastaneOtomasyon\AdoNetHospital\LoginForm\obj\Debug\LoginForm.LoginForm.resources
+C:\HastaneOtomasyon\AdoNetHospital\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\HastaneOtomasyon\AdoNetHospital\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+C:\HastaneOtomasyon\AdoNetHospital\LoginForm\obj\Debug\LoginForm.exe
+C:\HastaneOtomasyon\AdoNetHospital\LoginForm\obj\Debug\LoginForm.pdb
+C:\HastaneOtomasyon\AdoNetHospital\LoginForm\obj\Debug\LoginForm.RegisterForm.resources
+C:\HastaneOtomasyon\AdoNetHospital\LoginForm\obj\Debug\LoginForm.AppointmentStatusListForm.resources
+C:\HastaneOtomasyon\AdoNetHospital\LoginForm\obj\Debug\LoginForm.PasswordRememberForm.resources
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\LoginForm\bin\Debug\BusinessLayer.dll
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\LoginForm\bin\Debug\Entities.dll
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\LoginForm\bin\Debug\Data Access Layer.dll
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\LoginForm\bin\Debug\BusinessLayer.pdb
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\LoginForm\bin\Debug\Entities.pdb
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\LoginForm\bin\Debug\Data Access Layer.pdb
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\LoginForm\obj\Debug\LoginForm.AppointmentSave.resources
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\LoginForm\obj\Debug\LoginForm.AppointmentStatusListForm.resources
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\LoginForm\obj\Debug\LoginForm.LoginForm.resources
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\LoginForm\obj\Debug\LoginForm.PasswordRememberForm.resources
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\LoginForm\obj\Debug\LoginForm.RegisterForm.resources
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\LoginForm\obj\Debug\LoginForm.pdb

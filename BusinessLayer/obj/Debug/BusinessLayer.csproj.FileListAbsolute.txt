@@ -1,0 +1,18 @@
+C:\HastaneOtomasyon\AdoNetHospital\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\HastaneOtomasyon\AdoNetHospital\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\HastaneOtomasyon\AdoNetHospital\BusinessLayer\bin\Debug\Data Access Layer.dll
+C:\HastaneOtomasyon\AdoNetHospital\BusinessLayer\bin\Debug\Entities.dll
+C:\HastaneOtomasyon\AdoNetHospital\BusinessLayer\bin\Debug\Data Access Layer.pdb
+C:\HastaneOtomasyon\AdoNetHospital\BusinessLayer\bin\Debug\Entities.pdb
+C:\HastaneOtomasyon\AdoNetHospital\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\HastaneOtomasyon\AdoNetHospital\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\HastaneOtomasyon\AdoNetHospital\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\BusinessLayer\bin\Debug\Data Access Layer.dll
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\BusinessLayer\bin\Debug\Entities.dll
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\BusinessLayer\bin\Debug\Data Access Layer.pdb
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\BusinessLayer\bin\Debug\Entities.pdb
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\BusinessLayer\obj\Debug\BusinessLayer.pdb

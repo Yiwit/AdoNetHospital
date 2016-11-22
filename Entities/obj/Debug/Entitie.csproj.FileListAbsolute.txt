@@ -1,0 +1,10 @@
+C:\HastaneOtomasyon\AdoNetHospital\Entities\obj\Debug\Entitie.csprojResolveAssemblyReference.cache
+C:\HastaneOtomasyon\AdoNetHospital\Entities\bin\Debug\Entities.dll
+C:\HastaneOtomasyon\AdoNetHospital\Entities\bin\Debug\Entities.pdb
+C:\HastaneOtomasyon\AdoNetHospital\Entities\obj\Debug\Entities.dll
+C:\HastaneOtomasyon\AdoNetHospital\Entities\obj\Debug\Entities.pdb
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\Entities\bin\Debug\Entities.dll
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\Entities\bin\Debug\Entities.pdb
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\Entities\obj\Debug\Entitie.csprojResolveAssemblyReference.cache
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\Entities\obj\Debug\Entities.dll
+C:\Users\SERKAN\Desktop\MHRS_HastaneOtomasyon\AdoNetHospital\Entities\obj\Debug\Entities.pdb
